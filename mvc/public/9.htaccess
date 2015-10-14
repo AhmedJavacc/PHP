@@ -1,0 +1,4 @@
+Options -MultiViews
+RewriteEngine On
+
+RewriteBase /~ahmed.elsayed/mvc/app/ 
